@@ -1,0 +1,24 @@
+@import '../less/main';
+
+// Icons
+.icon-defaults() {
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+button {
+  &.pnl-icon {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    outline: 0;
+  }
+}
+
+.pnl-icon {
+  &--delete-icon {
+    background-image: url('../assets/icons/delete-icon.svg');
+    height: 18px;
+    width: 15px;
+  }
+}

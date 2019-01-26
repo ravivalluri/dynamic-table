@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="170px" viewBox="0 0 146 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Delete Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-115.000000, -127.000000)" fill-rule="nonzero" fill="#223143">
+            <g id="Delete-Icon" transform="translate(115.000000, 127.000000)">
+                <path d="M54.5192308,0 L48.4615385,12.1428571 L12.1153846,12.1428571 C5.40346154,12.1428571 0,17.5585714 0,24.2857143 L0,36.4285714 L145.384615,36.4285714 L145.384615,24.2857143 C145.384615,17.5585714 139.981154,12.1428571 133.269231,12.1428571 L96.9230769,12.1428571 L90.8653846,0 L54.5192308,0 Z M12.1153846,48.5714286 L22.7163462,157.857143 C23.4553846,164.523571 29.65725,170 36.3461538,170 L109.038462,170 C115.730031,170 121.929231,164.523329 122.668269,157.857143 L133.269231,48.5714286 L12.1153846,48.5714286 Z" id="Shape-Copy-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
