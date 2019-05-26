@@ -5,12 +5,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Installation
 
 1. Navigate to and open the command line in the directory where you want to install the app
-1. Clone the repository
-    * `git clone [repo-url]`
-2. Navigate to repo:
-    * `cd [repo-name]`
-3. Install dependencies:
-    * `npm install`
+2. Clone the repository:
+
+    `git clone https://github.com/waynefarnworth/dynamic-table.git`
+3. Navigate to repo:
+
+    `cd dynamic-table`
+
+4. Install dependencies:
+
+    `npm install`
 
 ## Development server
 
@@ -32,9 +36,9 @@ Run `ng test dynamic-table-library` to execute the unit tests via [Karma](https:
 
 # Dynamic Table
 
-### This app serves the **dynamic-table-library**. Changes should be made in **projects/dynamic-table-library**, The app will automatically reload if you change any of the source files in that directory.
+This app serves the **dynamic-table-library**. Changes should be made in **projects/dynamic-table-library**, The app will automatically reload if you change any of the source files in that directory.
 
-#### If changes to the app (dynamic-table) are required, you can do so as usual following the below:
+If changes to the app (dynamic-table) are required, you can do so as usual following the below:
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
@@ -53,4 +57,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
